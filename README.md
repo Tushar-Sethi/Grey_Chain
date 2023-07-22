@@ -17,4 +17,5 @@ This file is the Unit test file which will test both the end points. We just nee
 ## To Test the end points in POSTMAN, please follow this structure while posting the data
 
 "baseURL/scrape" -> { 'url' : 'valid url' }
+
 'baseURL/getLinks" -> { 'url' : 'valid url', 'sentence' : 'string' }
